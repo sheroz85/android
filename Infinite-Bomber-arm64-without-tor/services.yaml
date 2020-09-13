@@ -12,7 +12,7 @@
 
 - url: 'https://apteka366.ru/login/register/sms/send'
   method: 'POST'
-  body: 'phone=<num2>'
+  body: 'phone=<+998933331245>'
   okRes: '{"phone":"'
   delay: 121
 
